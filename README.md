@@ -6,3 +6,5 @@ subimos con main
  * con carlos y jhon 
  * me pedi un sandwichs
  * y una limonada de coco
+ * tengo palo de hambre
+ * tengo que aprender a bailar bien
